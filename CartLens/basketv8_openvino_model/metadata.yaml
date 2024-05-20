@@ -1,0 +1,13 @@
+description: Ultralytics basketv8 model trained on /kaggle/input/basketdetection/basketdata/data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2023-10-26T22:06:08.809457'
+version: 8.0.201
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: basket

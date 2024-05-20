@@ -1,0 +1,53 @@
+description: Ultralytics shelfnew model trained on /kaggle/input/shelfbas/shelfbasketdata/data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2023-10-27T17:10:56.769841'
+version: 8.0.201
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: 50 50 Biscuit
+  1: Biscafe
+  2: Bounce
+  3: Bourbon Dark fantasy
+  4: Bourbon
+  5: Bourn Vita Biscuit
+  6: Chocobakes
+  7: Coffee Joy
+  8: Creme
+  9: Dark Fantasy
+  10: Digestive
+  11: Elite
+  12: Ginger
+  13: Good Day
+  14: Happy Happy
+  15: Hide - Seek
+  16: Jim Jam
+  17: KrackJack
+  18: Malkist
+  19: Marie Gold
+  20: Marie Light
+  21: Milk Bikis
+  22: Milk Short Cake
+  23: Mom Magic
+  24: Monaco
+  25: Nice
+  26: Nutri Choice
+  27: Nutri Choice-Crackers-
+  28: Nutri Choice-Herbs-
+  29: Nutri Choice-Sugar Free-
+  30: Oreo
+  31: Parle G
+  32: Potazo
+  33: Sunfeast green
+  34: Super Millets
+  35: Supermilk
+  36: Tninz
+  37: Treat
+  38: Unibic
+  39: Unibic-box
+  40: all rounder
